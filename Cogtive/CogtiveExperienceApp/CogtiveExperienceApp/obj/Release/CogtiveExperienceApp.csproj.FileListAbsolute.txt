@@ -1,0 +1,10 @@
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\bin\Release\CogtiveExperienceApp.exe.config
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\bin\Release\CogtiveExperienceApp.exe
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\bin\Release\CogtiveExperienceApp.pdb
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\bin\Release\Library.dll
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\bin\Release\Library.pdb
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\obj\Release\CogtiveExperienceApp.csprojAssemblyReference.cache
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\obj\Release\CogtiveExperienceApp.csproj.CoreCompileInputs.cache
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\obj\Release\CogtiveExperienceApp.csproj.CopyComplete
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\obj\Release\CogtiveExperienceApp.exe
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\CogtiveExperienceApp\obj\Release\CogtiveExperienceApp.pdb

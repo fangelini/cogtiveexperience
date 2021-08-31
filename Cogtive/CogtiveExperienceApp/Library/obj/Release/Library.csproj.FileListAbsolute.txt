@@ -1,0 +1,5 @@
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\bin\Release\Library.dll
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\bin\Release\Library.pdb
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\obj\Release\Library.dll
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\obj\Release\Library.pdb

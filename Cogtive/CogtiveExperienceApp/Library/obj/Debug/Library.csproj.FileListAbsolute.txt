@@ -1,0 +1,6 @@
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\bin\Debug\Library.dll
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\bin\Debug\Library.pdb
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\obj\Debug\Library.dll
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\obj\Debug\Library.pdb
+C:\Users\feaan\OneDrive\Documents\Projetos\Cogtive\CogtiveExperienceApp\Library\obj\Debug\Library.csprojAssemblyReference.cache
